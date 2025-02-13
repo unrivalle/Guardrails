@@ -10,3 +10,13 @@ Domain-specific Assistants (a.k.a. chatbots): Ensure the assistant stays on topi
 LLM Endpoints: Add guardrails to your custom LLM for safer customer interaction.
 LangChain Chains: If you use LangChain for any use case, you can add a guardrails layer around your chains.
 Agents (COMING SOON): Add guardrails to your LLM-based agent.
+
+
+
+I have categorized the guardrails into five big categories:
+
+- Security and privacy
+- Response and relevance
+- Language quality
+- Content validation
+- Logic and functionality
