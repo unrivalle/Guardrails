@@ -1,5 +1,7 @@
 Guardrails:
-activefence
+1.activefence
+2. Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations
+3. NeMo Guardrails -->> language used ---> Colang, a specialized modeling language used to define guardrails for Large Language Models (LLMs), primarily within the NVIDIA NeMo Guardrails framework
 Use Cases:
 You can use programmable guardrails in different types of use cases:
 
